@@ -1,0 +1,17 @@
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\obj\Debug\DungeonsAndDragons5thEditionServices.csprojAssemblyReference.cache
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\obj\Debug\DungeonsAndDragons5thEditionServices.csproj.CoreCompileInputs.cache
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\DungeonsAndDragons5thEditionServices.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\DungeonsAndDragons5thEditionServices.pdb
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\DnsClient.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Bson.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Driver.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\System.Buffers.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\DnsClient.xml
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Bson.xml
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Driver.xml
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\obj\Debug\DungeonsAndDragons5thEditionServices.csproj.CopyComplete
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\obj\Debug\DungeonsAndDragons5thEditionServices.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragons5thEditionServices\obj\Debug\DungeonsAndDragons5thEditionServices.pdb

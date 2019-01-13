@@ -1,0 +1,6 @@
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\bin\Debug\DungeonsAndDragonsDice.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\bin\Debug\DungeonsAndDragonsDice.pdb
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\obj\Debug\DungeonsAndDragonsDice.csprojAssemblyReference.cache
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\obj\Debug\DungeonsAndDragonsDice.csproj.CoreCompileInputs.cache
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\obj\Debug\DungeonsAndDragonsDice.dll
+C:\Users\daniel.stamey\source\repos\DungeonsAndDragons5thEdition\DungeonsAndDragonsDice\obj\Debug\DungeonsAndDragonsDice.pdb
